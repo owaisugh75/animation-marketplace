@@ -1,0 +1,5 @@
+export const CREATE_TAG = 'CREATE_TAG'
+export const UPDATE_TAG = 'UPDATE_TAG'
+export const GET_ALL_TAGS = 'GET_ALL_TAGS'
+export const DELETE_TAG = 'DELETE_TAG'
+export const GET_ALL_TAGS_BY_TYPE = 'GET_ALL_TAGS_BY_TYPE'
